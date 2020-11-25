@@ -1,0 +1,13 @@
+.body_background{
+    background-image: url("Sports.jpg") ;
+    border-color: blue;
+    background-position: center;
+    background-size: cover;
+      }
+  
+  #myCanvas{
+    border-width:10px;
+    border-style:ridge;
+    border-color:red;
+    
+  }
